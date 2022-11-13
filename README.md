@@ -3,7 +3,7 @@
 ## CBRE Challenge ##
 
 Develop a prototype to demonstrate how to improve Customer Experience (CX) by adopting AI/ML model on review comments from social media, contact centers, and feedback surveys that result in high customer satisfaction and loyalty.  
---------
+
 ### Test data needs: ###
 
 Use some publicly available data sets from your choice to model and identify Positive, Negative, or Neutral emotions.   
@@ -15,11 +15,14 @@ Use some publicly available data sets from your choice to model and identify Pos
   Improve Products
   
   Services  Monitor Brand Reputation
-  
+
+-----
  
+ [DEMO](https://zohaibsaqib0815.wixsite.com/whatsup)
  ### How it was made ###
  
  Using Python Pandas and NumPy our team built out a way to effectively classify negative and positive reviews automatically.
+ 
  
  
  
