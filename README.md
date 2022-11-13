@@ -16,5 +16,9 @@ Use some publicly available data sets from your choice to model and identify Pos
   
   Services  Monitor Brand Reputation
   
-  
+ 
+ ### How it was made ###
+ 
+ Using Python Pandas and NumPy our team built out a way to effectively classify negative and positive reviews automatically. 
+ 
  
