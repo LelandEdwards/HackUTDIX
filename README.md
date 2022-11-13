@@ -1,6 +1,8 @@
 # HackUTDIX 
 
-## [CBRE Challenge](https://zohaibsaqib0815.wixsite.com/whatsup)
+## [Challenges Demo](https://zohaibsaqib0815.wixsite.com/whatsup)
+
+### CBRE Challenge 
 
 Develop a prototype to demonstrate how to improve Customer Experience (CX) by adopting AI/ML model on review comments from social media, contact centers, and feedback surveys that result in high customer satisfaction and loyalty.  
 
@@ -15,6 +17,10 @@ Use some publicly available data sets from your choice to model and identify Pos
   Improve Products
   
   Services  Monitor Brand Reputation
+
+### State Farm Challenge 
+
+Use technology to design a creative solution to a problem that your community currently faces. 
 
 -----
  
