@@ -1,6 +1,6 @@
 # HackUTDIX 
 
-## CBRE Challenge
+## [CBRE Challenge](https://zohaibsaqib0815.wixsite.com/whatsup)
 
 Develop a prototype to demonstrate how to improve Customer Experience (CX) by adopting AI/ML model on review comments from social media, contact centers, and feedback surveys that result in high customer satisfaction and loyalty.  
 
@@ -17,8 +17,6 @@ Use some publicly available data sets from your choice to model and identify Pos
   Services  Monitor Brand Reputation
 
 -----
- 
- [DEMO](https://zohaibsaqib0815.wixsite.com/whatsup)
  
 ### What AnalyzeThis Does 
 
