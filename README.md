@@ -8,7 +8,7 @@ Develop a prototype to demonstrate how to improve Customer Experience (CX) by ad
 
 #### Test data needs: 
 
-Use some publicly available data sets from your choice to model and identify Positive, Negative, or Neutral emotions.   
+Use publicly available data sets to model and identify Positive, Negative, or Neutral emotions.   
 
 #### Business Benefits: 
   
