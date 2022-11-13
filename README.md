@@ -34,6 +34,8 @@ AnalyzeThis is a tool that helps business owners detect what the people around t
  Using Python Pandas and NumPy our team built out a way to effectively classify negative and positive reviews automatically.
  
 Website Link: https://zohaibsaqib0815.wixsite.com/whatsup
+Dataset Link: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
 
  
  
